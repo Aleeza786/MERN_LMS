@@ -1,1 +1,2 @@
 A simple Learning Management System built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project allows users to create, read, update, and delete courses and lessons. It provides a basic framework for managing educational content and user authentication process.
+For any query, mail me at aleezafatima1021@gmail.com
